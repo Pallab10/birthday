@@ -1,0 +1,29 @@
+.first .carousel-item img{
+    width: 100%;
+}
+
+.img-1{
+    height: 75vh;
+}
+
+carousel-caption{
+    padding-bottom: 0;
+}
+
+h1{
+    background: #ff0b85;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px 10px;
+}
+
+h2{
+    background: #ff0b85;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 10px 10px;
+}
+
+.second img{
+    width: 100%;
+}
